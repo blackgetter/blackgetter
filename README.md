@@ -4,7 +4,7 @@
 
 ```
 2020.03 ~ 2022.02 M.S. in Next Generation Smart Energy System Convergence, Gachon University, Korea
-  2020.01 ~ 2022.01 Research Student at Smart Enery System Convergence Lab.
+  ㄴ 2020.01 ~ 2022.01 Research Student at Smart Enery System Convergence Lab.
 2013.03 ~ 2020.02 B.S. in Department of Electrical Engineering, Gachon University, Korea
 ```
 <!--
