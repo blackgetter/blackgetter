@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ```
+2024.04 ~ Firmware Engineer, seonens, Korea
 2022.02 ~ 2023.02 Distributed Power System Reserch Engineer, G-Guru, Korea
 2020.03 ~ 2022.02 M.S. in Next Generation Smart Energy System Convergence, Gachon University, Korea
   ㄴ 2020.03 ~ 2022.02 Research Student at Smart Energy System Convergence Lab.
 2013.03 ~ 2020.02 B.S. in Department of Electrical Engineering, Gachon University, Korea
 ```
-Interested in Embedded Linux driver
+
 <!--
 **blackgetter/blackgetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
